@@ -6,7 +6,7 @@ metadata:
     app: hello-world
     org: orange
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: hello-world
